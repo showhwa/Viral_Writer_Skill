@@ -167,6 +167,16 @@ cp -r Viral_Writer_Skill ~/.claude/skills/Viral_Writer_Skill
 - 需要实时热点数据的时效性内容（AI 没有联网能力时）
 - 替代人类创作者的独特风格和个人经历
 
+## Star History
+
+<a href="https://www.star-history.com/?repos=nashsu%2FViral_Writer_Skill&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=nashsu/Viral_Writer_Skill&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=nashsu/Viral_Writer_Skill&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=nashsu/Viral_Writer_Skill&type=date&legend=top-left" />
+ </picture>
+</a>
+
 ## 许可证
 
 MIT
